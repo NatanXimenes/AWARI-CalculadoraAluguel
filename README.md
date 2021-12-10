@@ -1,3 +1,9 @@
+Esse repositório contem todos os notebooks e arquivos csvs do projeto desenvolvido durante o curso de Data Science da awari, desde a coleta de valores de apartamentos do site da
+Viva Real via web scraping até o deploy onde foi disponibilizado uma calculadora de aluguel no link: https://calculadora-awari.herokuapp.com/
+
+
+Colocando o Deploy em produção:
+
 To upload pickles larger than 25 MB you will need Git Large File Storage
 
 # Debian and Ubuntu
